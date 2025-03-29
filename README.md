@@ -43,7 +43,7 @@
 <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=psykickguy&radius=16&theme=github-dark&area=true&order=5" alt="activity-graph graph"  />
 
-<div align="">
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="40"/>
@@ -57,9 +57,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="40" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="40"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="40" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="40" />
