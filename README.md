@@ -26,26 +26,47 @@
 ###
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 # 📊 GitHub Stats:
 
-
-
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykickguy&theme=dark&locale=en&hide_border=false&order=1"/>
-  <img align="right" src="https://nirzak-streak-stats.vercel.app/?user=psykickguy&theme=dark&hide_border=false&order=2"   />
+  <img src="https://github-readme-stats.vercel.app/api?username=psykickguy&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph" /> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="200">
+   </div>
+   <br/>
+  <div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="200"> &nbsp; &nbsp; &nbsp; <img src="https://nirzak-streak-stats.vercel.app/?user=psykickguy&theme=dark&hide_border=false&order=2" alt="languages graph" /> 
+  </div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psykickguy&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&order=3" alt="streak graph" /> &nbsp; &nbsp; &nbsp; <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="200">
+  </div>
+<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psykickguy&radius=16&theme=github-dark&area=true&order=5" alt="activity-graph graph"  />
+
+<div align="">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="40" />
 </div>
-
-
-
-
-<div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psykickguy&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false&order=3"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="200">
-</div>
-  
-
 
 
 
@@ -53,7 +74,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=psykickguy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  </div>
+<br><br>
 
-<div  align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
-</div>
+
