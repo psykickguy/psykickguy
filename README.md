@@ -66,8 +66,26 @@
 </div>
 
 
+# 🔥 Projects:
 
-## 🏆 GitHub Trophies
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/psykickguy/ZooFi-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=ZooFi-&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Zoofi-"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/psykickguy/Wanderlust-college-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=Wanderlust-college-project&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Wanderlust"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+# 🏆 GitHub Trophies:
+
 ![](https://github-profile-trophy.vercel.app/?username=psykickguy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
