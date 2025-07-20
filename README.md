@@ -80,6 +80,17 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=Wanderlust-college-project&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Wanderlust"/>
       </a>
     </td>
+  </tr><tr>
+    <td width="50%">
+      <a href="https://github.com/psykickguy/StonxHub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=StonxHub&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="StonxHub"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/psykickguy/code-chronicles-portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=code-chronicles-portfolio&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="code-chronicles-portfolio"/>
+      </a>
+    </td>
   </tr>
 </table>
 
