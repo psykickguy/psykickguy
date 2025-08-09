@@ -82,8 +82,8 @@
     </td>
   </tr><tr>
     <td width="50%">
-      <a href="https://github.com/psykickguy/StonxHub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=StonxHub&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="StonxHub"/>
+      <a href="https://github.com/psykickguy/SigmaGPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=SigmaGPT&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="SigmaGPT"/>
       </a>
     </td>
     <td width="50%">
