@@ -101,16 +101,16 @@
 
 <br/>
 <div align="center">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   </div>
 <br><br>
 
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg">
-</picture>
+<!--   <picture> -->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph-dark.svg"> -->
+<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg"> -->
+<!--   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg"> -->
+<!-- </picture> -->
 </p>
 
 ![](https://komarev.com/ghpvc/?username=psykickguy)
