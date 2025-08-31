@@ -105,12 +105,14 @@
   </div>
 <br><br>
 
-<p align="center">
-<!--   <picture> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph-dark.svg"> -->
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg"> -->
-<!--   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prishasawhney/prishasawhney/output/pacman-contribution-graph.svg"> -->
-<!-- </picture> -->
-</p>
 
 ![](https://komarev.com/ghpvc/?username=psykickguy)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[psykickguy]/[psykickguy]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[psykickguy]/[psykickguy]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[psykickguy]/[psykickguy]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
