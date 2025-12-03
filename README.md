@@ -71,16 +71,17 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/psykickguy/ZooFi-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=ZooFi-&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Zoofi-"/>
+      <a href="https://github.com/psykickguy/MISINFORMATION-GAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=MISINFORMATION-GAME&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="MISINFORMATION-GAME"/>
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/psykickguy/Wanderlust-college-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=Wanderlust-college-project&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Wanderlust"/>
+      <a href="https://github.com/psykickguy/Prism">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=Prism&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Prism"/>
       </a>
     </td>
-  </tr><tr>
+</tr>
+<tr>
     <td width="50%">
       <a href="https://github.com/psykickguy/SigmaGPT">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=SigmaGPT&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="SigmaGPT"/>
