@@ -88,10 +88,11 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/psykickguy/code-chronicles-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=code-chronicles-portfolio&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="code-chronicles-portfolio"/>
-      </a>
-    </td>
+  <a href="https://github.com/psykickguy/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psykickguy&repo=Portfolio&theme=github_dark&hide_border=false&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=ffffff&bg_color=0D1117" alt="Portfolio"/>
+  </a>
+</td>
+
   </tr>
 </table>
 
